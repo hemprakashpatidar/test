@@ -26,6 +26,8 @@
   <a href="https://epaper.naidunia.com/mepaper/18-jul-2021-74-indore-edition-indore-page-9.html">Naidunia</a>
   <br>
   <a href="https://epaper.naidunia.com/mepaper/17-jul-2021-74-indore-edition-indore-page-9.html">Naidunia</a>
+  <br>
+  <a href="ind.html">Googlffe</a>
 <h1>hrll</h1>
 GRR</body>
 <html>
