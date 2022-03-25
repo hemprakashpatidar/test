@@ -23,10 +23,9 @@
   <a href="https://ncdex.com/market-watch/live_quotes?instr_name=0&symbol%5B%5D=DHANIYA&exp_date=0">NCDEX-DHANIYA</a>
   <br>
   
-  <a href="https://epaper.naidunia.com/mepaper/18-jul-2021-74-indore-edition-indore-page-9.html">Naidunia</a>
+  <a href="https://epaper.naidunia.com/mepaper/edition-today-indore-74.html">Naidunia</a>
   <br>
-  <a href="https://epaper.naidunia.com/mepaper/17-jul-2021-74-indore-edition-indore-page-9.html">Naidunia</a>
-  <br>
+
   <a href="https://github.com/hemprakashpatidar/test/blob/main/ind.html">Googlffe</a>
 <h1>hrll</h1>
 GRR</body>
