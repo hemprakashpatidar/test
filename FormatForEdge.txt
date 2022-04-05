@@ -1,0 +1,4 @@
+//Format for Edge list, line separated or comma seperated
+
+A.B, A.~C       // for classes
+lucy->A   // for individuals

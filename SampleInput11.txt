@@ -1,0 +1,16 @@
+S.P
+T.~P
+T.Q
+U.Q
+U.R
+V.T
+V.~Q
+W.U
+ann->S
+ann->P
+ann->T
+ann->V
+bob->V
+bob->~U
+sue->W
+sue->R
