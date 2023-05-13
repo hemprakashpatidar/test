@@ -34,5 +34,5 @@ function myFunction() {
 <h1>hrll</h1>
   <p id="demo">A Paragraph.</p>
   <button type="button" onclick="myFunction()">Try it</button>
-GRRs</body>
+GRRss</body>
 <html>
