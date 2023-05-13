@@ -28,5 +28,6 @@
 
   <a href="https://github.com/hemprakashpatidar/test/blob/main/ind.html">Googlffe</a>
 <h1>hrll</h1>
+  <button type="button" onclick="myFunction()">Try it</button>
 GRR</body>
 <html>
